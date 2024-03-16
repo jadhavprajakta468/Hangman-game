@@ -1,0 +1,26 @@
+HANGMAN RULES
+
+HOW TO PLAY
+
+Intro:
+Hangman is a classic word game.
+In this game, you must guess the secret word one letter at a time.
+Each incorrect guess adds another part to the hangman. 
+
+
+The Words:
+There will be three categories to choose from.
+The categories are countris, animals and fruits. 
+To guess each word, you will be given 10 attmepts. 
+When those 10 attepts are over and the hangman's picture is completed, you loose the game. 
+If you guess the word before the hangman's picture is complete and before you're left with 0 attempts, you win the game.
+
+
+Hints:
+If you need help finding a word, click the Hint button 
+Each hint will give you 1 letter.
+You are only allowed two hints per word
+
+HOPE YOU ENJOY GAMING :)
+
+
