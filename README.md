@@ -1,6 +1,6 @@
 PSDL MINI PROJECT : Hangman Game 
 BATCH : B1 
-Name : Prajakta Jadhav
+Name : Prajakta Jadhav \n
 Synopsis : 
 1) Problem Statement : 
 The program creates a word guessing game (Hangman Game).
