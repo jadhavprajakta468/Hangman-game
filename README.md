@@ -25,23 +25,17 @@ This project implements a classic Hangman game using Python and Tkinter for the 
 - **Tkinter:** For creating the game interface and managing GUI elements.
   
 - **Random:** For selecting random words from predefined lists.
-  
-- **PIL:** For handling and displaying images in the GUI.
 
 ## Getting Started
 
 1. **Installation:**
    - Ensure Python 3.x is installed on your system.
-   - Install required modules using pip:
-     ```
-     pip install pillow
-     ```
 
 2. **Running the Game:**
    - Clone the repository.
    - Navigate to the directory and run:
      ```
-     python hangman_game.py
+     python HangmanCode.py
      ```
    - Follow on-screen instructions to play the game.
 
